@@ -1,6 +1,9 @@
 # FilamenterosConsole
 Small but useful simple console application for keeping track of your filament, printed models, inventory, maintenance and mainly yours profits on sells.
 
+# Setup
+Download whole .zip file, export it to folder on your computer and start the Filamenteros.exe. Now you're good to go.
+
 # Menus
 Spools -> Keep track of your filament, remaining filament on spools  
 Models -> Add your printed models, you will see model cost and you know all what you have printed  
