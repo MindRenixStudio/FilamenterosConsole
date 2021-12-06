@@ -22,3 +22,6 @@ Languages avaiable: English, Czech, Russian, French, Spanish, Polish, German, Sw
 # Patreon / Sharing
 If you like our application, please consider our patreon for further development or share this app 
 https://www.patreon.com/mindrenixstudio
+
+# Bugs
+If your console write out looks scuffed, just resize the window of your console and it will self-adjust
